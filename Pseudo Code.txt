@@ -1,0 +1,7 @@
+Pseudocode writing
+
+1. Create object (empty)
+2. Object has variables of int long float double String ObjectArray
+3. Object has methods to merge two variables.
+4. Get variables.
+5. 

@@ -1,0 +1,18 @@
+package innumerable;
+import java.io.DataStreamInput;
+import java.io.DataStreamOutput;
+
+
+public static void main(String args[])
+{
+  for (i=0;i<args.length(); i+2)
+    {
+     read args[i];
+     perform activities related to skipped object;
+     map selected object to a bloom object
+     add embellishments
+    }
+
+
+
+}
